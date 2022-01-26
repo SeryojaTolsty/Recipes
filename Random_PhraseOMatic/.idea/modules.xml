@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PhraseOMatic.iml" filepath="$PROJECT_DIR$/PhraseOMatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random_PhraseOMatic.iml" filepath="$PROJECT_DIR$/Random_PhraseOMatic.iml" />
     </modules>
   </component>
 </project>
