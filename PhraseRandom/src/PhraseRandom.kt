@@ -30,12 +30,23 @@ fun main(args: Array<String>) {
     y++
     println(y)
 
-    val z = 4       //код не выполнится, так как у неявной переменной указан неизменяемый тип val
-    while (z < 4) {
-        println("yo")
+//    val z = 4       //код не выполнится, так как у неявной переменной указан неизменяемый тип val
+//    while (z < 4) {
+//        println("yo")
+//    }
+//    z++
+//    println(z)
+
+    val index = arrayOf(1, 3, 4, 2)
+    val fruit = arrayOf("Apple", "Banana", "Cherry", "Blueberry", "Pomegranate")
+    var a = 0
+    var b: Int
+    while(a < 4){
+        b = index[a]
+        println("Fruit = ${fruit[b]}")
+        a = a + 1
     }
-    z++
-    println(z)
+
 
 
 }
