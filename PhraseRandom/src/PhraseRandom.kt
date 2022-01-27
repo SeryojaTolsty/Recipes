@@ -16,4 +16,26 @@ fun main(args: Array<String>) {
     println("")
     val phrase = "${wordArray1[rand1]} ${wordArray2[rand2]} ${wordArray3[rand3]}"
     println(phrase)
+/////////////////////////////////////////////////////////////////////////////////////////
+    var x = 5
+    x = 6
+    print(x)
+
+    println("")
+
+    var y = 4
+    while (y < 4) {
+        println("yo")
+    }
+    y++
+    println(y)
+
+    val z = 4       //код не выполнится, так как у неявной переменной указан неизменяемый тип val
+    while (z < 4) {
+        println("yo")
+    }
+    z++
+    println(z)
+
+
 }
