@@ -2,15 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f430d3d2-7ef5-4291-ad60-12f47499efcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RockPaperScissors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/Animalz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Animalz/src/Animals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/AnimalzV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnimalzV2/src/AnimalsV2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/Dogz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dogz/src/Dogs.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/Recipes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipes/src/Recipes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Songs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Songs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Songs/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Songs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/NewProjMod/NewProjMod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/NewProjMod/src/NewMod.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/TestApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/out/production/TestApp/AppKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/out/production/TestApp/META-INF/TestApp.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestApp/src/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Songs/src/Songs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Songs/src/Songs.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,5 +113,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
